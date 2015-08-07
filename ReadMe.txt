@@ -42,5 +42,4 @@ namespace export_as_pdf //(must be same as plugin FOLDER NAME)
 ->Thats all about my code you will get a clear idea after the first run
 
 /********************A PROBLEM*********************************/
-"In my code I am failed to dynamically add supporting .dll files(pdfsharp files) of my plugin (export_as_pdf).So I resolved it by adding those files directly to project.I expect a good solution for this problem after the evaluvation THANK UU"
- 
+"In my code I am failed to dynamically add supporting .dll files(pdfsharp files) of my plugin (export_as_pdf).So I resolved it by adding those files directly to project.Kindly give me a good solution for this problem after the evaluvation THANK UU"
