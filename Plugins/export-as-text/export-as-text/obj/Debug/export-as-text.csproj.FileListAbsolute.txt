@@ -1,0 +1,4 @@
+C:\Users\PAVILION\Documents\Visual Studio 2010\Projects\export-as-text\export-as-text\bin\Debug\export-as-text.dll
+C:\Users\PAVILION\Documents\Visual Studio 2010\Projects\export-as-text\export-as-text\bin\Debug\export-as-text.pdb
+C:\Users\PAVILION\Documents\Visual Studio 2010\Projects\export-as-text\export-as-text\obj\Debug\export-as-text.dll
+C:\Users\PAVILION\Documents\Visual Studio 2010\Projects\export-as-text\export-as-text\obj\Debug\export-as-text.pdb
